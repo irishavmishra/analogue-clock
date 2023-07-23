@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 10px;
+}
+
+
+body{
+    background-color: purple;
+}
+
+.main{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.clock{
+
+    width: 35rem;
+    height: 35rem;
+    background-color: white;
+    border: 4px solid silver;
+    border-radius: 50%;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.pin{
+    width: 2px;
+    height: 16rem;
+    position: absolute;
+    transform-origin: bottom;
+}
+
+.hours{
+    background-color: red;
+}
+.minuts{
+    background-color: blue;
+}
+.seconds{
+    background-color: black;
+}
+
