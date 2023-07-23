@@ -58,14 +58,3 @@ If you wish to customize the appearance or behavior of the analog clock, you can
 
 Feel free to modify the clock's colors, size, or add additional features according to your preferences.
 
-## License
-
-The Analog Clock project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the MIT License.
-
-## Acknowledgments
-
-This project was inspired by the desire to learn and practice front-end web development. Special thanks to the creators of similar clock projects and online resources that helped in learning and implementation.
-
----
-
-Feel free to enhance this README with any additional information or instructions you find necessary. Once you've created the repository on GitHub, you can copy and paste this README into your repository's `README.md` file. Happy coding!
